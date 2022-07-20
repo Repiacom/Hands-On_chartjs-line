@@ -3,7 +3,7 @@
 ![Line chart with any number of series](./line.png)
 
 ## Demo 
-https://handsondataviz.github.io/chartjs-line/
+https://repiacom.github.io/Hands-On_chartjs-line/
 
 Sample data by CT Department of Education.
 
